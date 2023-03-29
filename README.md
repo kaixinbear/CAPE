@@ -57,7 +57,7 @@ sh test.sh
 |:-----------------------------------------------------:|:---------:|:--------:|:-------:|:---------:|
 | cape_r50_1408x512_24ep_wocbgs_imagenet_pretrain       | 34.7%     | 40.6%    |[config](projects/configs/CAPE/cape_r50_1408x512_24ep_wocbgs_imagenet_pretrain.py) | [log](https://drive.google.com/file/d/1FuaByEOMShcntgbRoZv4hJOffIEiUYer/view?usp=share_link) / [checkpoint](https://drive.google.com/file/d/1_4WZzYYHVUso0C6XDJ4m2fg-ZWSRxcBQ/view?usp=share_link)
 | capet_r50_704x256_24ep_wocbgs_imagenet_pretrain       | 31.8%     | 44.2%    |[config](projects/configs/CAPE-T/capet_r50_704x256_24ep_wocbgs_imagenet_pretrain.py) | [log](https://drive.google.com/file/d/1iZnnvfp2y4g6azW2PV-4ggIpqiz2jTcv/view?usp=share_link) / [checkpoint](https://drive.google.com/file/d/163MRL60YTPIv7cUcioNsWCMWTBUhjKnA/view?usp=share_link)
-| capet_VoV99_800x320_24ep_wocbgs_load_dd3d_pretrain    | 44.0%     | 53.6%    | [config](projects/configs/CAPE-T/capet_VoV99_800x320_24ep_wocbgs_load_dd3d_pretrain.py) | [log](https://drive.google.com/file/d/1c3rY08idaDPE-0pjZQIHyT8aS2G24zAy/view?usp=share_link) / [checkpoint](https://drive.google.com/file/d/1z_GaLVfrNu9PJkyAnyJJUvHCEwBgqt3P/view?usp=share_link)
+| capet_VoV99_800x320_24ep_wocbgs_load_dd3d_pretrain    | 44.7%     | 54.36%    | [config](projects/configs/CAPE-T/capet_VoV99_800x320_24ep_wocbgs_load_dd3d_pretrain.py) | [log](https://drive.google.com/file/d/1c3rY08idaDPE-0pjZQIHyT8aS2G24zAy/view?usp=share_link) / [checkpoint](https://drive.google.com/file/d/1z_GaLVfrNu9PJkyAnyJJUvHCEwBgqt3P/view?usp=share_link)
 
 ## Acknowledgement
 Many thanks to the authors of [mmdetection3d](https://github.com/open-mmlab/mmdetection3d).
