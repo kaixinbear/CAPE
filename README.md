@@ -1,4 +1,6 @@
 # CAPE: Camera View Position Embedding for Multi-View 3D Object Detection (CVPR2023)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cape-camera-view-position-embedding-for-multi/3d-object-detection-on-nuscenes-camera-only)](https://paperswithcode.com/sota/3d-object-detection-on-nuscenes-camera-only?p=cape-camera-view-position-embedding-for-multi)
+
 This repository is an official implementation of [CAPE](https://arxiv.org/pdf/2303.10209.pdf) 
 
 <div align="center">
