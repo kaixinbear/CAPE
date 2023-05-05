@@ -70,7 +70,7 @@ If you find this project useful for your research, please consider citing:
 ```
 @article{Xiong2023CAPE,
   title={CAPE: Camera View Position Embedding for Multi-View 3D Object Detection},
-  author={Kaixin Xiong, Shi Gong, Xiaoqing Ye, Xiao Tan, Ji Wan, Errui Ding, Jingdong Wang, Xiang Bai},
+  author={Xiong, Kaixin and Gong, Shi and Ye, Xiaoqing and Tan, Xiao and Wan, Ji and Ding, Errui and Wang, Jingdong and Bai, Xiang},
   booktitle={Computer Vision and Pattern Recognition},
   year={2023}
 }
